@@ -5,7 +5,7 @@
 - :outbox_tray: Objetivos em 2024: criar novos projetos e encontrar um estágio.
 <div align="center">
   <a href="https://github.com/enricoo26">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricoo26&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricoo26&layout=compact&langs_count=5&theme=dracula"/>
   </a>
   </div>
 
