@@ -1,7 +1,7 @@
 ## Olá, eu sou o Enrico 👋
 
 - 🎓 Ciência da Computação - Instituto Mauá de Tecnologia;
-- :books: Atualmente estou aprendendo SQL;
+- :books: Atualmente estou aprendendo SQL, Java e Pyton;
 - :outbox_tray: Objetivos em 2024: criar novos projetos e encontrar um estágio.
 <div align="center">
   <a href="https://github.com/enricoo26">
