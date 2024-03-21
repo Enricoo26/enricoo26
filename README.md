@@ -1,9 +1,11 @@
 ## Olá, eu sou o Enrico 👋
 
 - 🎓 Ciência da Computação - Instituto Mauá de Tecnologia;
+- :books: Atualmente estou aprendendo SQL;
+- :outbox_tray: Objetivos em 2024: criar novos projetos e encontrar um estágio.
 <div align="center">
   <a href="https://github.com/mariele-huff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricoo26&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricoo26&layout=donut-vertical"/>
 </div>
 
 <div style="display: inline_block"><br>
