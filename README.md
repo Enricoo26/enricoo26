@@ -4,7 +4,7 @@
 - :books: Atualmente estou aprendendo SQL;
 - :outbox_tray: Objetivos em 2024: criar novos projetos e encontrar um estágio.
 <div align="center">
-  <a href="https://github.com/mariele-huff">
+  <a href="https://github.com/enricoo26">
   <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricoo26&layout=donut-vertical"/>
 </div>
 
