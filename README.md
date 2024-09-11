@@ -2,6 +2,11 @@
 
 - 🎓 Ciência da Computação - Instituto Mauá de Tecnologia;
 - :books: Atualmente estou aprendendo Dart, Flutter, Banco de Dados não relacionais e e Engenharia de Software;
+- 📖 Cursos em andamento:
+  - JP Java Programming Learner - English - Oracle Academy
+  - AWS Academy Cloud Foundations - AWS Academy
+  - Princípios de Aprendizado de Máquina - IMT
+  - Tratamento e Limpeza de Dados - IMT
 - :outbox_tray: Objetivos em 2024: criar novos projetos e encontrar um estágio.
 <div align="center">
   <a href="https://github.com/enricoo26">
